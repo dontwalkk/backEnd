@@ -2,10 +2,13 @@
   "name": "music-project-backend",
   "version": "0.0.1",
   "description": "This backend will serve the Music Project",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Robert Kh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
